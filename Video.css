@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+embed{
+    
+    width: 720px;
+    height: 560px;
+    margin: 0 auto;
+   display: block;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
